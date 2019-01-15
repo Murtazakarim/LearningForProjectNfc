@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Tv">Your Counter is:</string>
+    <string name="btncounter">Counter:</string>
+    <string name="btnreset">Reset:</string>
+    <string name="hintFirstTv">Enter First number</string>
+    <string name="hintSecondTv">Enter Second number</string>
+
+    <string-array name="array_dishes">
+        <item>choclate</item>
+        <item>biryani</item>
+        <item>ice cream</item>
+        <item>biscuits</item>
+    </string-array>
+
+    <string-array name="array_countries">
+        <item>Pakistan</item>
+        <item>China</item>
+        <item>banglasdesh</item>
+        <item>america</item>
+    </string-array>
+    <string name="title_activity_nfc_tutorials03">NfcTutorials03</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nfc_toturials03">NfcToturials03</string>
+
+
+</resources>
